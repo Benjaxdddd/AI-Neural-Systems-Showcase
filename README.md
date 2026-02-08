@@ -8,7 +8,7 @@
 ---
 
 
-![Interfaz de Nova](assets/nova_ui.png)
+![Interfaz de Nova](assets/home.png)
 
 
 
