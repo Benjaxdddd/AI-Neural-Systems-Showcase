@@ -2,9 +2,8 @@
 
 > **Arquitectura modular de Inteligencia Artificial diseñada para la orquestación de agentes, análisis de datos avanzado e interfaz de comunicación neural.**
 
-[![Live Demo](https://img.shields.io/badge/DEMO-STREAMLIT-FF003C?style=for-the-badge&logo=streamlit)](https://benja-ai-core.streamlit.app)
-[![Stack](https://img.shields.io/badge/STACK-GROQ_|_LLAMA_3.3_|_STREAMLIT-white?style=for-the-badge)](https://github.com/tu-usuario)
-[![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-00FF00?style=for-the-badge)](https://github.com/tu-usuario)
+[![Live Demo](https://img.shields.io/badge/DEMO-STREAMLIT-FF003C?style=for-the-badge&logo=streamlit)](https://systemcorebf.streamlit.app/)
+[![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-00FF00?style=for-the-badge)](https://github.com/Benjaxdddd)
 
 ---
 
@@ -46,14 +45,7 @@ Como **AI Architect**, la gobernanza de datos es innegociable:
 * **Zero-Persistence**: El audio capturado se procesa de forma volátil y desaparece tras la sesión; sin almacenamiento persistente.
 * **Encrypted Uplink**: Comunicación segura mediante túneles HTTPS/WSS.
 
----
 
-## :: SOBRE EL ARQUITECTO
-**Benjamín Flores** *AI Architect & GenAI Engineer Specialist*
-
-Enfocado en la transición de la gestión estratégica hacia la ingeniería de sistemas autónomos. Mi objetivo es desarrollar soluciones de IA que no solo sean funcionales, sino que prioricen la sanidad mental del usuario y la eficiencia operativa a escala global.
-
----
 <p align="center">
   <img src="https://img.shields.io/badge/SYSTEM_ID-0x829A-FF003C?style=flat-square" />
   <img src="https://img.shields.io/badge/INFRASTRUCTURE-ENCRYPTED-blue?style=flat-square" />
