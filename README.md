@@ -1,1 +1,60 @@
-🔴 SYSTEM_CORE // NEURAL_INTERFACE_V3.0Arquitectura híbrida de Inteligencia Artificial diseñada para la orquestación de agentes, análisis de datos avanzado e interacción neural por voz.:: VISIÓN GENERALSystem Core no es un chatbot convencional; es un ecosistema modular de inteligencia diseñado para maximizar la productividad mediante la delegación de tareas a protocolos especializados. Este proyecto representa la culminación de una transición profesional hacia la vanguardia de la IA Generativa, priorizando la sanidad mental, la seguridad de datos y la excelencia técnica.:: LOS CUATRO PILARES (PROTOCOLOS)PROTOCOLOFUNCIÓNCORE TECH⚡ RAG_PROTOCOLAnálisis de documentos privados con búsqueda semántica y citación precisa.ChromaDB & Llama 3.3🧿 AGENTE_NEXUSInvestigador web autónomo con capacidad de autocrítica y síntesis técnica.Serper API & ReAct Logic🌪️ PROTOCOLO_VORTEXAnalista de datos que genera código Python y visualizaciones dinámicas en tiempo real.Python Sandbox & PandasAI🎙️ PROTOCOLO_NOVAInterfaz de voz avanzada con detección neural de género y emociones.Whisper-v3 & Edge TTS:: ARQUITECTURA TÉCNICAEl sistema utiliza una infraestructura de baja latencia para asegurar una respuesta humana en milisegundos.Inferencia Ultra-Rápida: Implementación de Groq LPU para alcanzar velocidades de hasta 300 tokens por segundo con Llama 3.3-70B.Análisis Multimodal: Protocolo Nova procesa la voz del usuario para extraer metadatos de prosodia, identificando el estado emocional y género gramatical para adaptar la respuesta.Orquestación Cíclica: Uso de flujos lógicos inspirados en LangGraph para permitir que los agentes rectifiquen sus propias búsquedas.:: SEGURIDAD Y PRIVACIDAD (GOVERNANCE)Como AI Architect, la integridad de la información es el centro del diseño:Zero-Persistence: Los archivos de audio en el protocolo Nova se procesan de forma volátil y nunca se almacenan en disco.Encrypted Uplink: Conexión cifrada de extremo a extremo mediante protocolos HTTPS/WSS.Caja Negra: El código fuente y la lógica de orquestación se mantienen en un repositorio privado bajo estándares de seguridad industrial.:: SOBRE EL ARQUITECTOBenjamín FloresDe la gerencia estratégica a la arquitectura de sistemas inteligentes. Enfocado en la creación de herramientas que potencien la capacidad humana mediante IA aplicada y diseño de comportamiento.LinkedIn: [Tu Enlace]Portfolio: [Tu URL de Streamlit]<p align="center"><img src="https://img.shields.io/badge/SYSTEM_ID-0x829A-FF003C?style=flat-square" /><img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00FF00?style=flat-square" /></p>
+# 🔴 SYSTEM_CORE // NEURAL_INTERFACE_V3.0
+
+> **Arquitectura modular de Inteligencia Artificial diseñada para la orquestación de agentes, análisis de datos avanzado e interfaz de comunicación neural.**
+
+[![Live Demo](https://img.shields.io/badge/DEMO-STREAMLIT-FF003C?style=for-the-badge&logo=streamlit)](https://benja-ai-core.streamlit.app)
+[![Stack](https://img.shields.io/badge/STACK-GROQ_|_LLAMA_3.3_|_STREAMLIT-white?style=for-the-badge)](https://github.com/tu-usuario)
+[![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-00FF00?style=for-the-badge)](https://github.com/tu-usuario)
+
+---
+
+## :: VISIÓN GENERAL
+**System Core** es un ecosistema de IA de alto rendimiento que integra múltiples protocolos de procesamiento para transformar la interacción humano-máquina. Desarrollado como el eje central de mi transición profesional hacia la **Ingeniería de GenAI**, este sistema prioriza la velocidad de inferencia, la seguridad de los datos y una estética **Tron High-End** diseñada para entornos de misión crítica.
+
+---
+
+## :: PROTOCOLOS DE OPERACIÓN
+
+| PROTOCOLO | ESPECIALIDAD | TECNOLOGÍA CLAVE |
+| :--- | :--- | :--- |
+| **⚡ RAG_PROTOCOL** | Análisis semántico de documentos privados con citación técnica precisa. | ChromaDB & Llama 3.3 |
+| **🧿 AGENTE_NEXUS** | Investigador web autónomo con bucles de autocrítica y refinamiento de búsqueda. | Serper API & ReAct Logic |
+| **🌪️ PROTOCOLO_VORTEX** | Analista de datos con sandbox de Python para generación de código y visualización. | PandasAI & LPU Inference |
+| **🎙️ PROTOCOLO_NOVA** | Interfaz de voz avanzada con detección neural de género, emociones y prosodia. | Whisper-v3 & Edge TTS |
+
+---
+
+## :: ARQUITECTURA TÉCNICA (DEEP DIVE)
+
+### 🧠 Inferencia de Baja Latencia
+El sistema está optimizado para la toma de decisiones en tiempo real utilizando la infraestructura de **Groq LPU**, logrando velocidades de hasta **300 tokens por segundo** con modelos Llama 3.3-70B.
+
+### 🎙️ Análisis de Metadatos Vocales (Nova)
+A diferencia de los asistentes de voz estándar, **Protocolo Nova** realiza un análisis forense de la entrada de audio para extraer metadatos emocionales y gramaticales (género), adaptando la personalidad de la respuesta mediante una síntesis neural de alta fidelidad.
+
+### 💠 Interfaz de Usuario (UI/UX)
+Diseñado bajo una estética de "Terminal de Operaciones", el sistema incluye:
+* **Escaneo Láser Dinámico**: Efectos visuales de integridad de sistema al interactuar con módulos.
+* **Responsive Design**: Optimización completa para dispositivos móviles, asegurando operatividad internacional.
+* **Feedback Háptico Visual**: Núcleos pulsantes que reaccionan a la frecuencia de salida de audio.
+
+---
+
+## :: SEGURIDAD Y PRIVACIDAD
+Como **AI Architect**, la gobernanza de datos es innegociable:
+* **Caja Negra (Private Repo)**: La lógica de orquestación y los prompts del sistema residen en un repositorio privado para proteger la propiedad intelectual.
+* **Zero-Persistence**: El audio capturado se procesa de forma volátil y desaparece tras la sesión; sin almacenamiento persistente.
+* **Encrypted Uplink**: Comunicación segura mediante túneles HTTPS/WSS.
+
+---
+
+## :: SOBRE EL ARQUITECTO
+**Benjamín Flores** *AI Architect & GenAI Engineer Specialist*
+
+Enfocado en la transición de la gestión estratégica hacia la ingeniería de sistemas autónomos. Mi objetivo es desarrollar soluciones de IA que no solo sean funcionales, sino que prioricen la sanidad mental del usuario y la eficiencia operativa a escala global.
+
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEM_ID-0x829A-FF003C?style=flat-square" />
+  <img src="https://img.shields.io/badge/INFRASTRUCTURE-ENCRYPTED-blue?style=flat-square" />
+</p>
