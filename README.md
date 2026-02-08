@@ -7,6 +7,11 @@
 
 ---
 
+
+![Interfaz de Nova](assets/nova_ui.png)
+
+
+
 ## :: VISIÓN GENERAL
 **System Core** es un ecosistema de IA de alto rendimiento que integra múltiples protocolos de procesamiento para transformar la interacción humano-máquina. Desarrollado como el eje central de mi transición profesional hacia la **Ingeniería de GenAI**, este sistema prioriza la velocidad de inferencia, la seguridad de los datos y una estética **Tron High-End** diseñada para entornos de misión crítica.
 
