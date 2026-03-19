@@ -22,7 +22,7 @@
 | PROTOCOLO | ESPECIALIDAD | TECNOLOGÍA CLAVE |
 | :--- | :--- | :--- |
 | **⚡ RAG_PROTOCOL** | Análisis semántico de documentos privados con citación técnica precisa. | ChromaDB & Llama 3.3 |
-| **🧿 AGENTE_NEXUS** | Investigador web autónomo con bucles de autocrítica y refinamiento de búsqueda. | Serper API & ReAct Logic |
+| **🧿 AGENTE_NEXUS** | Investigador web autónomo con bucles de autocrítica y refinamiento de búsqueda. | Tavily API & ReAct Logic |
 | **🌪️ PROTOCOLO_VORTEX** | Analista de datos con sandbox de Python para generación de código y visualización. | PandasAI & LPU Inference |
 | **🎙️ PROTOCOLO_NOVA** | Interfaz de voz avanzada con detección neural de género, emociones y prosodia. | Whisper-v3 & Edge TTS |
 
